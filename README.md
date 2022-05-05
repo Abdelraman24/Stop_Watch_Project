@@ -1,5 +1,5 @@
 # Stop_Watch_Project
-Stop Watch Project with Embedded C
+""Stop Watch Project with Embedded C""
 Implement the following Stop Watch system with the specifications listed below:
 1. Use ATmega16 Microcontroller with frequency 1Mhz.
 2. Configure Timer1 in ATmega16 with CTC mode to count the Stop Watch time.
